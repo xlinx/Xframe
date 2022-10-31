@@ -1,4 +1,4 @@
-# A-FRAME w/ bootstrap, nodeJS, react and Parcel
+# A-FRAME w/ bootstrap, nodeJS, react, websocket and Parcel
 
 Init [AFrame](https://aframe.io) Lib and Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaScript plugins with [Parcel](https://parceljs.org) by [DECADE.TW](https://decade.tw) w/TTUniversity.
 
@@ -18,6 +18,9 @@ recommendtion. ==> using vanilla A-Frame and aframe-state-component with static 
 
 ## bootstrap + aframe
 use to handle layout w/ whole HTML.
+
+## websocket
+plan to use on multi-user with sam sense.
 
 ## How to use
 
