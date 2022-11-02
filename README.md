@@ -31,4 +31,4 @@ npm install
 npm parcelX
 
 ```
-![DECADE.TW](https://decade.tw/wp-content/uploads/2021/09/DECADE_new.png)
+![DECADE.TW](https://decade.tw/wp-content/uploads/2021/09/DECADE_new.png =250x)

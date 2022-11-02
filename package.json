@@ -15,10 +15,11 @@
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "aframe": "^1.3.0",
-    "bootstrap": "^5.2.0",
-    "aframe-state-component": "7.1.0",
     "aframe-inspector": "^1.3.0",
-    "aframe-particle-system-component": "^1.1.3"
+    "aframe-particle-system-component": "^1.1.3",
+    "aframe-state-component": "7.1.0",
+    "bootstrap": "^5.2.0",
+    "three": "^0.146.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
